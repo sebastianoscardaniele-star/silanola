@@ -80,3 +80,7 @@ Esta versión integra todos los cambios desde `panini-2026-calendario-jugadores-
 ## Corrección CAN / BIH / QAT / SUI
 
 Se forzaron los nombres reales para Canadá, Bosnia y Herzegovina, Qatar y Suiza, reemplazando placeholders vacíos o del tipo `CAN 2`, `BIH 2`, etc.
+
+## Fix estable de jugadores
+
+Se consolidó una sola fuente `PLAYER_PRESETS` para MEX, RSA, KOR, CZE, CAN, BIH, QAT y SUI. La app aplica esos nombres al construir el álbum, al cargar datos guardados y al montar la app.
