@@ -47,14 +47,9 @@ Se eliminó de la interfaz la barra de acciones técnicas: copiar faltantes, cop
 Se agregó un apartado de calendario con 104 partidos, incluyendo fase de grupos y eliminación directa.
 Incluye fecha, fase, grupo/cruce, horarios informados y sede.
 
-## México actualizado
+## Integración final
 
-Se precargaron los nombres de las figuritas MEX 1 a MEX 20.
-
-## Persistencia
-
-La app guarda automáticamente en el navegador cada cambio: figuritas marcadas, nombres editados, repetidas y preferencias de vista/sección/filtros.
-
-## Jugadores visibles
-
-Se precargaron los nombres en el campo Jugador para México, Sudáfrica, Corea del Sur y República Checa.
+Esta versión integra:
+- Base con calendario en sección seleccionable.
+- Nombres visibles en el campo Jugador para México, Sudáfrica, Corea del Sur y República Checa.
+- Persistencia automática de colección y preferencias de vista.
