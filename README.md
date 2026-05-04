@@ -34,3 +34,9 @@ El archivo `package.json` usa:
 ```
 
 Esto evita el problema de versión Node reportado por Vercel.
+
+
+## Cambios integrados
+
+- Se reemplazó Burkina Faso por Bosnia y Herzegovina (BIH).
+- En Especiales / Intro (FWC) no aparece el campo de jugador.
