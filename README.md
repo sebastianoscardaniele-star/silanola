@@ -1,18 +1,25 @@
-# Panini Mundial 2026 - Vercel
+# Control Panini Mundial 2026 - Pro UI
 
-Aplicación web en Vite + React para controlar figuritas del álbum Panini Mundial 2026.
+Aplicación web en React + Vite lista para Vercel.
 
 ## Incluye
 
+- Grupos A a L según la lista indicada.
 - 48 selecciones.
-- Estructura base: 32 especiales + 20 figuritas por selección.
-- Campo editable de jugador por figurita.
+- Especiales divididas en:
+  - 19 FWC
+  - 14 CC
+- Las secciones FWC y CC no muestran campo de jugador.
+- Cada selección tiene 20 figuritas.
+- Nombre de jugador editable en figuritas de selecciones.
 - Marcado de figuritas que tenés.
-- Conteo de repetidas.
-- Listado de faltantes.
+- Repetidas para intercambio.
+- Faltantes.
+- Progreso general, por grupo y por selección.
 - Exportar/importar JSON.
-- Diseño con colores inspirados en Mundial 2026.
-- Proyecto simple para Vercel: sin Supabase, sin shadcn, sin alias y sin dependencias extra.
+- Datos guardados en el navegador.
+- Sin Supabase, sin shadcn, sin alias, sin dependencias extra.
+- Node 24 para Vercel.
 
 ## Deploy en Vercel
 
@@ -23,38 +30,10 @@ Aplicación web en Vite + React para controlar figuritas del álbum Panini Mundi
 5. Output Directory: `dist`.
 6. Deploy.
 
-## Importante
+## Comandos locales
 
-El archivo `package.json` usa:
-
-```json
-"engines": {
-  "node": "24.x"
-}
+```bash
+npm install
+npm run dev
+npm run build
 ```
-
-Esto evita el problema de versión Node reportado por Vercel.
-
-
-## Cambios integrados
-
-- Se reemplazó Burkina Faso por Bosnia y Herzegovina (BIH).
-- En Especiales / Intro (FWC) no aparece el campo de jugador.
-
-
-## Grupos integrados
-
-Grupo A: México, Sudáfrica, Corea del Sur y República Checa  
-Grupo B: Canadá, Bosnia y Herzegovina, Qatar y Suiza  
-Grupo C: Brasil, Marruecos, Haití y Escocia  
-Grupo D: Estados Unidos, Paraguay, Australia y Turquía  
-Grupo E: Alemania, Curazao, Costa de Marfil y Ecuador  
-Grupo F: Países Bajos, Japón, Suecia y Túnez  
-Grupo G: Bélgica, Egipto, Irán y Nueva Zelanda  
-Grupo H: España, Cabo Verde, Arabia Saudita y Uruguay  
-Grupo I: Francia, Senegal, Irak y Noruega  
-Grupo J: Argentina, Argelia, Austria y Jordania  
-Grupo K: Portugal, RD Congo, Uzbekistán y Colombia  
-Grupo L: Inglaterra, Croacia, Ghana y Panamá  
-
-También se mantiene la regla: en Especiales / Intro (FWC) no se muestra el campo de jugador.
