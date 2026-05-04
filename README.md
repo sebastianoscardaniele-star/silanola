@@ -40,3 +40,9 @@ npm run build
 ## UI limpia total
 
 Se eliminó de la interfaz la barra de acciones técnicas: copiar faltantes, copiar repetidas, exportar JSON, importar JSON y reiniciar.
+
+
+## Calendario integrado
+
+Se agregó un apartado de calendario con 104 partidos, incluyendo fase de grupos y eliminación directa.
+Incluye fecha, fase, grupo/cruce, horarios informados y sede.
