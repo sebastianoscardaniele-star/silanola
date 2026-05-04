@@ -53,3 +53,9 @@ Esta versión integra:
 - Base con calendario en sección seleccionable.
 - Nombres visibles en el campo Jugador para México, Sudáfrica, Corea del Sur y República Checa.
 - Persistencia automática de colección y preferencias de vista.
+
+## Todos los equipos completados automáticamente
+
+Se agregaron presets visibles para todos los equipos restantes. Para equipos sin lista nominal provista, se precargó: figurita 1 = Escudo, figurita 13 = Foto de equipo y el resto como código + número, editable desde la app.
+
+Equipos autocompletados: MEX, RSA, KOR, CZE, BRA, MAR, HAI, SCO, USA, PAR, AUS, TUR, GER, CUW, CIV, ECU, NED, JPN, SWE, TUN, BEL, EGY, IRN, NZL, ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT, JOR, POR, COD, UZB, COL, ENG, CRO, GHA, PAN
