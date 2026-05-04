@@ -40,3 +40,21 @@ Esto evita el problema de versión Node reportado por Vercel.
 
 - Se reemplazó Burkina Faso por Bosnia y Herzegovina (BIH).
 - En Especiales / Intro (FWC) no aparece el campo de jugador.
+
+
+## Grupos integrados
+
+Grupo A: México, Sudáfrica, Corea del Sur y República Checa  
+Grupo B: Canadá, Bosnia y Herzegovina, Qatar y Suiza  
+Grupo C: Brasil, Marruecos, Haití y Escocia  
+Grupo D: Estados Unidos, Paraguay, Australia y Turquía  
+Grupo E: Alemania, Curazao, Costa de Marfil y Ecuador  
+Grupo F: Países Bajos, Japón, Suecia y Túnez  
+Grupo G: Bélgica, Egipto, Irán y Nueva Zelanda  
+Grupo H: España, Cabo Verde, Arabia Saudita y Uruguay  
+Grupo I: Francia, Senegal, Irak y Noruega  
+Grupo J: Argentina, Argelia, Austria y Jordania  
+Grupo K: Portugal, RD Congo, Uzbekistán y Colombia  
+Grupo L: Inglaterra, Croacia, Ghana y Panamá  
+
+También se mantiene la regla: en Especiales / Intro (FWC) no se muestra el campo de jugador.
