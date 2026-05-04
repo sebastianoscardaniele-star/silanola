@@ -84,3 +84,8 @@ Se forzaron los nombres reales para Canadá, Bosnia y Herzegovina, Qatar y Suiza
 ## Fix estable de jugadores
 
 Se consolidó una sola fuente `PLAYER_PRESETS` para MEX, RSA, KOR, CZE, CAN, BIH, QAT y SUI. La app aplica esos nombres al construir el álbum, al cargar datos guardados y al montar la app.
+
+## Corrección definitiva de nombres
+
+Se consolidó una única fuente `PLAYER_PRESETS` para MEX, RSA, KOR, CZE, CAN, BIH, QAT y SUI.
+Además, el campo visible de cada tarjeta muestra primero el preset correspondiente, por lo que los nombres aparecen aunque hubiera datos viejos guardados.
