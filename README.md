@@ -16,7 +16,6 @@ Aplicación web en React + Vite lista para Vercel.
 - Repetidas para intercambio.
 - Faltantes.
 - Progreso general, por grupo y por selección.
-- Exportar/importar JSON.
 - Datos guardados en el navegador.
 - Sin Supabase, sin shadcn, sin alias, sin dependencias extra.
 - Node 24 para Vercel.
@@ -37,3 +36,7 @@ npm install
 npm run dev
 npm run build
 ```
+
+## UI limpia total
+
+Se eliminó de la interfaz la barra de acciones técnicas: copiar faltantes, copiar repetidas, exportar JSON, importar JSON y reiniciar.
