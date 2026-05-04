@@ -1,0 +1,21 @@
+{
+  "name": "panini-pro-total",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "vite": "5.4.11",
+    "@vitejs/plugin-react": "4.2.1"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
