@@ -59,3 +59,20 @@ Esta versión integra:
 Se agregaron presets visibles para todos los equipos restantes. Para equipos sin lista nominal provista, se precargó: figurita 1 = Escudo, figurita 13 = Foto de equipo y el resto como código + número, editable desde la app.
 
 Equipos autocompletados: MEX, RSA, KOR, CZE, BRA, MAR, HAI, SCO, USA, PAR, AUS, TUR, GER, CUW, CIV, ECU, NED, JPN, SWE, TUN, BEL, EGY, IRN, NZL, ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT, JOR, POR, COD, UZB, COL, ENG, CRO, GHA, PAN
+
+
+## Versión final consolidada
+
+Esta versión integra todos los cambios desde `panini-2026-calendario-jugadores-integrado.zip` hasta la última actualización:
+
+- Calendario de partidos en pestaña separada.
+- Álbum y calendario seleccionables desde la barra de secciones.
+- Nombres visibles en el campo Jugador para México, Sudáfrica, Corea del Sur y República Checa.
+- Nombres cargados para Canadá, Bosnia y Herzegovina, Qatar y Suiza.
+- Persistencia automática en el navegador.
+- Todos los equipos restantes autocompletados de forma editable:
+  - figurita 1 = Escudo
+  - figurita 13 = Foto de equipo
+  - resto = código + número
+- Especiales divididas en 19 FWC + 14 CC.
+- ZIP limpio para GitHub y Vercel.
