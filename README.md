@@ -76,3 +76,7 @@ Esta versión integra todos los cambios desde `panini-2026-calendario-jugadores-
   - resto = código + número
 - Especiales divididas en 19 FWC + 14 CC.
 - ZIP limpio para GitHub y Vercel.
+
+## Corrección CAN / BIH / QAT / SUI
+
+Se forzaron los nombres reales para Canadá, Bosnia y Herzegovina, Qatar y Suiza, reemplazando placeholders vacíos o del tipo `CAN 2`, `BIH 2`, etc.
