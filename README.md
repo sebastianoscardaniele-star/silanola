@@ -46,3 +46,7 @@ Se eliminó de la interfaz la barra de acciones técnicas: copiar faltantes, cop
 
 Se agregó un apartado de calendario con 104 partidos, incluyendo fase de grupos y eliminación directa.
 Incluye fecha, fase, grupo/cruce, horarios informados y sede.
+
+## México actualizado
+
+Se precargaron los nombres de las figuritas MEX 1 a MEX 20.
