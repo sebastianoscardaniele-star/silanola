@@ -1,41 +1,36 @@
-# Album Mundial 2026 - Version final pro
+# Panini Mundial 2026 - Vercel
 
-Aplicacion React + Vite lista para desplegar en Vercel.
+Aplicación web en Vite + React para controlar figuritas del álbum Panini Mundial 2026.
 
 ## Incluye
 
-- Node configurado en `24.x` para Vercel.
-- Sin shadcn, sin alias `@`, sin Supabase y sin dependencias innecesarias.
-- 48 selecciones clasificadas al Mundial 2026.
-- Formato base de album: 32 figuritas especiales + 20 figuritas por seleccion.
-- Nombre editable por figurita.
-- Control de figuritas que tenes, faltantes y repetidas.
-- Busqueda por pais, grupo, codigo, numero o jugador.
-- Exportacion e importacion JSON.
-- Colores inspirados en Mundial 2026.
-
-## Uso local
-
-```bash
-npm install
-npm run dev
-```
-
-## Build local
-
-```bash
-npm run build
-```
+- 48 selecciones.
+- Estructura base: 32 especiales + 20 figuritas por selección.
+- Campo editable de jugador por figurita.
+- Marcado de figuritas que tenés.
+- Conteo de repetidas.
+- Listado de faltantes.
+- Exportar/importar JSON.
+- Diseño con colores inspirados en Mundial 2026.
+- Proyecto simple para Vercel: sin Supabase, sin shadcn, sin alias y sin dependencias extra.
 
 ## Deploy en Vercel
 
-1. Descomprimir el ZIP.
-2. Subir la carpeta a GitHub.
-3. Entrar a Vercel.
-4. Importar el repositorio.
-5. Framework Preset: Vite.
-6. Build Command: `npm run build`.
-7. Output Directory: `dist`.
-8. Deploy.
+1. Subí esta carpeta a GitHub.
+2. En Vercel, importá el repositorio.
+3. Framework Preset: Vite.
+4. Build Command: `npm run build`.
+5. Output Directory: `dist`.
+6. Deploy.
 
-No requiere variables de entorno.
+## Importante
+
+El archivo `package.json` usa:
+
+```json
+"engines": {
+  "node": "24.x"
+}
+```
+
+Esto evita el problema de versión Node reportado por Vercel.
