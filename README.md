@@ -50,3 +50,7 @@ Incluye fecha, fase, grupo/cruce, horarios informados y sede.
 ## México actualizado
 
 Se precargaron los nombres de las figuritas MEX 1 a MEX 20.
+
+## Persistencia
+
+La app guarda automáticamente en el navegador cada cambio: figuritas marcadas, nombres editados, repetidas y preferencias de vista/sección/filtros.
