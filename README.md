@@ -54,3 +54,7 @@ Se agregaron Brasil (BRA), Marruecos (MAR), Haití (HAI) y Escocia (SCO) al obje
 ## Jugadores agregados
 
 Se agregaron USA, PAR, AUS, TUR, GER, CUW, CIV, ECU, NED, JPN, SWE, TUN, BEL, EGY, IRN y NZL a PLAYER_PRESETS.
+
+## Jugadores agregados
+
+Se agregaron ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT y JOR a PLAYER_PRESETS.
