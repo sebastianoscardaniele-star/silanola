@@ -62,3 +62,7 @@ Se agregaron ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT y JOR a PLAYE
 ## Jugadores agregados
 
 Se agregaron POR, COD, UZB, COL, ENG, CRO, GHA y PAN a PLAYER_PRESETS.
+
+## Apartado Cómo usar
+
+Se agregó una sección seleccionable junto a Álbum y Calendario con la explicación de botones, filtros, calendario, guardado automático y consejos de uso.
