@@ -1,1 +1,0 @@
-CAN, BIH, QAT y SUI estan cargados en FORCE_TEAMS y el input usa forcedPlayer(section.code, sticker.number, sticker.player).
