@@ -1,5 +1,0 @@
-Esta version muestra los jugadores con getPlayerName(section.code, sticker.number, sticker.player).
-Equipos cargados: MEX, RSA, KOR, CZE, CAN, BIH, QAT, SUI.
-Agregados: BRA, MAR, HAI, SCO.
-Agregados bloque extra: ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT, JOR
-Agregados ultimo bloque: POR, COD, UZB, COL, ENG, CRO, GHA, PAN
