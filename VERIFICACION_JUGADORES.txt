@@ -1,2 +1,0 @@
-Esta version muestra los jugadores con getPlayerName(section.code, sticker.number, sticker.player).
-Equipos cargados: MEX, RSA, KOR, CZE, CAN, BIH, QAT, SUI.
