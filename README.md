@@ -58,3 +58,7 @@ Se agregaron USA, PAR, AUS, TUR, GER, CUW, CIV, ECU, NED, JPN, SWE, TUN, BEL, EG
 ## Jugadores agregados
 
 Se agregaron ESP, CPV, KSA, URU, FRA, SEN, IRQ, NOR, ARG, ALG, AUT y JOR a PLAYER_PRESETS.
+
+## Jugadores agregados
+
+Se agregaron POR, COD, UZB, COL, ENG, CRO, GHA y PAN a PLAYER_PRESETS.
