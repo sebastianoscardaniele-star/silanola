@@ -46,3 +46,7 @@ Se eliminó de la interfaz la barra de acciones técnicas: copiar faltantes, cop
 
 Se agregó un apartado de calendario con 104 partidos, incluyendo fase de grupos y eliminación directa.
 Incluye fecha, fase, grupo/cruce, horarios informados y sede.
+
+## Jugadores agregados
+
+Se agregaron Brasil (BRA), Marruecos (MAR), Haití (HAI) y Escocia (SCO) al objeto PLAYER_PRESETS.
