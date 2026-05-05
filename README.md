@@ -50,3 +50,7 @@ Incluye fecha, fase, grupo/cruce, horarios informados y sede.
 ## Jugadores agregados
 
 Se agregaron Brasil (BRA), Marruecos (MAR), Haití (HAI) y Escocia (SCO) al objeto PLAYER_PRESETS.
+
+## Jugadores agregados
+
+Se agregaron USA, PAR, AUS, TUR, GER, CUW, CIV, ECU, NED, JPN, SWE, TUN, BEL, EGY, IRN y NZL a PLAYER_PRESETS.
